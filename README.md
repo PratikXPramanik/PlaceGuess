@@ -262,3 +262,25 @@ export APP_JWT_SECRET=...
 export SPRING_DATA_REDIS_HOST=...
 export SPRING_DATA_REDIS_PASSWORD=...
 ```
+# Screenshots
+
+## Home Page
+![Home Page](assets/HomePage.png)
+
+## Login Page
+![Login](assets/LogIn.png)
+
+## Signup Page
+![Signup](assets/SignUp.png)
+
+## Score Page
+![Score](assets/Score.png)
+
+## Guess Round
+![Guess Round](assets/GuessRound.png)
+
+## Leaderboard
+![Leaderboard](assets/LeaderBoard.png)
+
+## Profile Page
+![Profile](assets/Profile.png)
